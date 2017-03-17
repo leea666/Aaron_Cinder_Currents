@@ -1,5 +1,7 @@
 # Week3_Cinder
 
-Particle System
+Particle System of snow falling.
 
-One with no image and one with snowflake image
+Video:
+
+https://www.youtube.com/watch?v=pOMkASoMgc0&feature=youtu.be
