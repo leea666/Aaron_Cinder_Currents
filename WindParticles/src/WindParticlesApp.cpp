@@ -38,7 +38,6 @@ void WindParticlesApp::mouseDown( MouseEvent event )
 {
     for(int i = 0 ; i < NUM_PARTICLES ; i++) {
         mParticles.push_back(Particle::create(glm::vec2(event.getPos().x, 770), LIFE_SPAN, glm::vec2(ci::randFloat(-RANDOM_FORCE_RANGE, RANDOM_FORCE_RANGE),ci::randFloat(-RANDOM_FORCE_RANGE, RANDOM_FORCE_RANGE)))) ;
-        
     }
 
 }
